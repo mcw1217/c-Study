@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\day23-03-21\day23-03-21\main.cpp(92,9): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C++\day23-03-21\day23-03-21\main.cpp(97,9): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  day23-03-21.vcxproj -> D:\C++\day23-03-21\x64\Debug\day23-03-21.exe
